@@ -5,12 +5,12 @@ const Footer = () => {
   return (
     <div className="w-full p-[2px] mt-auto flex items-center gap-4 justify-center mx-0 bottom-0 text-center z-50 bg-zinc-800 text-white">
       <h1 className="text-sm tracking-wide">
-        Made with <span>&#10084;</span> by Abhay Garg
+        Made with <span>&#10084;</span> by Gautam Patodi
         <span></span>
       </h1>
 
       <a
-        href="https://www.linkedin.com/in/prayutsu/"
+        href="https://www.linkedin.com/in/gautam-patodi-7a6849195/"
         rel="noreferrer"
         target="_blank"
       >
@@ -18,7 +18,7 @@ const Footer = () => {
       </a>
 
       <a
-        href="https://github.com/prayutsu/cflockout"
+        href="https://github.com/WolverienG6/codeforces_lockout"
         rel="noreferrer"
         target="_blank"
       >
